@@ -2,8 +2,10 @@ package cars;
 
 public class Car {
 
-    Color coor;
+    Color color;
     TypeOfBody typeOfBody;
     TypeOfFuel typeOfFuel;
     TypeOfUpholstery typeOfUpholstery;
+
+
 }
